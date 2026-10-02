@@ -1,0 +1,20 @@
+---
+title: "The Theorem Is Now the Example"
+date: 2026-10-02
+categories:
+  - AI and mathematics
+  - mathematical culture
+draft: true
+---
+
+For most of mathematics, the familiar progression has been
+
+$$
+\text{example}
+\longrightarrow
+\text{pattern}
+\longrightarrow
+\text{theorem}.
+$$
+
+What changes when the theorem itself becomes the example?

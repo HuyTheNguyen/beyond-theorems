@@ -1,0 +1,10 @@
+---
+title: "Welcome To My Blog"
+author: "Huy The Nguyen"
+date: "2026-09-29"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
