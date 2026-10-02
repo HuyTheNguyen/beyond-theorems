@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Beyond Theorems"
@@ -11,6 +12,7 @@ website:
       - href: about.qmd
         text: About
   search: true
+
 
 format:
   html:

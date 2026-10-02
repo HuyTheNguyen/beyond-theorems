@@ -14,24 +14,10 @@
     "text": "This is the first post in a Quarto blog. Welcome!"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Beyond Theorems",
     "section": "",
     "text": "I am human; nothing human is alien to me.\n— Terence\nBy mathematicians for mathematicians. A blog about AI, proof, mathematical value, and the changing structure of mathematical research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 29, 2026\n\n\nHuy The Nguyen\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/the-theorem-is-now-the-example/index.html",
-    "href": "posts/the-theorem-is-now-the-example/index.html",
-    "title": "The Theorem Is Now the Example",
-    "section": "",
-    "text": "For most of mathematics, the familiar progression has been\n\\[\n\\text{example}\n\\longrightarrow\n\\text{pattern}\n\\longrightarrow\n\\text{theorem}.\n\\]\nWhat changes when the theorem itself becomes the example?"
   }
 ]
