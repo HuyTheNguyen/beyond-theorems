@@ -5,6 +5,6 @@ date: "2026-09-29"
 categories: [news]
 ---
 
-This is the first post in the Beyond Theorems blog. Welcome!
+Welcome to the the Beyond Theorems blog.
 
 ![](thumbnail.jpg)
