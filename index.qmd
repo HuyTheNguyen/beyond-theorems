@@ -12,5 +12,5 @@ page-layout: full
 
 --- Terence
 
-By mathematicians for mathematicians. A blog about AI, proof,
-mathematical value, and the changing structure of mathematical research.
+By mathematicians, for mathematicians. A blog about AI, proof,
+mathematical value, and the changing nature of mathematical research.

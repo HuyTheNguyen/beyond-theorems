@@ -4,7 +4,7 @@ date: 2026-10-02
 categories:
   - AI and mathematics
   - mathematical culture
-draft: true
+draft: false
 ---
 
 For most of mathematics, the familiar progression has been
