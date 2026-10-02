@@ -5,6 +5,6 @@ date: "2026-09-29"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in the Beyond Theorems blog. Welcome!
 
 ![](thumbnail.jpg)
